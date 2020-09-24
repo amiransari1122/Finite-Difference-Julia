@@ -1,4 +1,4 @@
-# Finite-Difference-Julia
+# Interpolation by Finite Differences 
 This is a finite differences implementation  in Julia Language.
 
 This function can take a Tabular Function like (X,Y) and interpolate some points like  xn that are in bounds of X, 
